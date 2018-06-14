@@ -1,5 +1,7 @@
 package it.polito.tdp.bar;
 
+import java.time.LocalTime;
+
 public class Gruppo {
 	
 	private int id;
