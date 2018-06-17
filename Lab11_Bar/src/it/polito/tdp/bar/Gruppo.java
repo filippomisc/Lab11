@@ -9,6 +9,7 @@ public class Gruppo {
 	private int numPersone;
 	private double tolleranza;
 	private int permanenza;
+//	private Tavolo tavolo ;
 	Randomization random = new Randomization();
 	
 	
